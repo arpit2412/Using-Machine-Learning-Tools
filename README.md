@@ -2,3 +2,5 @@
 Solution of three different real life projects using Machine Learning
 
 ## 1. Wine Quality
+
+## 2. Cancer Detection 
